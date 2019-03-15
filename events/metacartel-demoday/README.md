@@ -17,7 +17,7 @@ description: A demo day for projects part of the MetaCartel
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: 'MetaCartel - Demo Day'
+name: 'MetaCartel Demo Day 2019'
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -31,22 +31,22 @@ synopsis:
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2019-08-26
+date: 2019-08-19
 # Leave this field if your event is held only during one day.
-#endDate: 2019-08-25
+#endDate: 2019-08-19
 
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
 time: '09:00'
-endTime: '17:00'
+endTime: '18:00'
 
 # The URL where to adquire the tickets. Can be left empty.
-tickets: https://twitter.com/meta_cartel
+tickets: metacartel.org
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 20
 
 # The name of the venue where the event will be held. Can be left empty.
 venue:
@@ -62,7 +62,7 @@ address:
 # - panel
 # - workshop
 # Use _only_ one, and don't capitalize.
-category: event
+category: conference
 
 
 #################
@@ -82,7 +82,7 @@ speakers:
 #   title:
 #
 #   # Can be left empty.
-#   company:
+#   company: MetaCartel Ventures
 #
 #   # The full URL, including http(s)://. Can be left empty.
 #   companyURL:
