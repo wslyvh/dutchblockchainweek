@@ -1,20 +1,20 @@
 {
-  "name": "berlinblockchainweek",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:HeyChristopher/berlinblockchainweek.git",
-  "author": "Carlos E. Salazar <ce.salazar@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HeyChristopher/berlinblockchainweek/issues"
-  },
-  "homepage": "https://HeyChristopher.github.com/berlinblockchainweek",
-  "scripts": {
-    "dev": "vuepress dev",
-    "build": "vuepress build"
-  },
-  "devDependencies": {
-    "debounce": "^1.2.0",
-    "vuepress": "^0.12.0"
-  }
+	"name": "dutchblockchainweek",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:wslyvh/dutchblockchainweek.git",
+	"author": "Carlos E. Salazar <ce.salazar@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/wslyvh/dutchblockchainweek/issues"
+	},
+	"homepage": "https://www.dutchblockchainweek.com/",
+	"scripts": {
+		"dev": "vuepress dev",
+		"build": "vuepress build"
+	},
+	"devDependencies": {
+		"debounce": "^1.2.0",
+		"vuepress": "^0.12.0"
+	}
 }
