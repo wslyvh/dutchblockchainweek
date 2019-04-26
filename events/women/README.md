@@ -86,6 +86,40 @@ address: Oudebrugsteeg 9, Amsterdam
 # - workshop
 # Use _only_ one, and don't capitalize.
 category: event
+
+#################
+### SPEAKERS ####
+#################
+# There _needs_ to be one hyphen before each entry.
+# Linebreaks are ignored, but they _must_ start with two spaces.
+# Indentation is crucial:
+# Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
+# Add or remove speakers as needed, but remember the hyphen before each entry.
+speakers:
+# -
+#   # Required.
+#   name:
+#
+#   # Can be left empty.
+#   title:
+#
+#   # Can be left empty.
+#   company:
+#
+#   # The full URL, including http(s)://. Can be left empty.
+#   companyURL:
+#
+#   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+#   # Can be left empty.
+#   twitter:
+#
+#   # The full URL, including http(s)://. Can be left empty.
+#   website:
+#
+#   # The bio is a single line.
+#   # Linebreaks are ignored, but they _must_ start with two spaces.
+#   bio:
+
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
