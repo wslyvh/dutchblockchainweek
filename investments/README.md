@@ -97,44 +97,36 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  - # Required.
-    name: Wilhelm Roth
-
-    # Can be left empty.
-    title: CEO
-
-    # Can be left empty.
-    company: Cyber Capital
-
-    # The full URL, including http(s)://. Can be left empty.
-    companyURL: https://cyber.capital/
-
-    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # Can be left empty.
-    twitter: wilhelmtroth
-
-    # The full URL, including http(s)://. Can be left empty.
-    website:
-
-    # The bio is a single line.
-    # Linebreaks are ignored, but they _must_ start with two spaces.
-    bio: We believe that Blockchain technology as well as cryptocurrencies are some of the most important technological innovations since the invention of the internet. We actively manage a diversified portfolio consisting of more than fifty different types of these digital tokens.
-
-  - name: Zoe Seccull
-    title: Business Development Manager
-    company: Maven 11 Capital
-    companyURL: https://maven11.com/
-    twitter:
-    website:
-    bio: Founded in 2015, Maven 11 is a prominent European investment firm solely focused on DLT / blockchain tech related ventures, tokens, digital currencies and digital assets. We are a diverse team of serial entrepreneurs and traditional finance professionals and above all passionate believers that blockchain technology will fundamentally change economic and social structures.
-
-  - name: Gys Hough
-    title: Managing Partner
-    company: Coinstone Capital
-    companyURL: https://www.coinstonecapital.com/
-    twitter:
-    website:
-    bio: Gys Hough is Managing Partner of Coinstone Capital, a Netherlands-based fund manager that specialises in blockchain-based investments. The fund predominately invests in ealry-stage blockchain projects that are identified through a use cased based investment strategy.
+  # - # Required.
+  #   name: Wilhelm Roth
+  #   # Can be left empty.
+  #   title: CEO
+  #   # Can be left empty.
+  #   company: Cyber Capital
+  #   # The full URL, including http(s)://. Can be left empty.
+  #   companyURL: https://cyber.capital/
+  #   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+  #   # Can be left empty.
+  #   twitter: wilhelmtroth
+  #   # The full URL, including http(s)://. Can be left empty.
+  #   website:
+  #   # The bio is a single line.
+  #   # Linebreaks are ignored, but they _must_ start with two spaces.
+  #   bio: We believe that Blockchain technology as well as cryptocurrencies are some of the most important technological innovations since the invention of the internet. We actively manage a diversified portfolio consisting of more than fifty different types of these digital tokens.
+  # - name: Zoe Seccull
+  #   title: Business Development Manager
+  #   company: Maven 11 Capital
+  #   companyURL: https://maven11.com/
+  #   twitter:
+  #   website:
+  #   bio: Founded in 2015, Maven 11 is a prominent European investment firm solely focused on DLT / blockchain tech related ventures, tokens, digital currencies and digital assets. We are a diverse team of serial entrepreneurs and traditional finance professionals and above all passionate believers that blockchain technology will fundamentally change economic and social structures.
+  # - name: Gys Hough
+  #   title: Managing Partner
+  #   company: Coinstone Capital
+  #   companyURL: https://www.coinstonecapital.com/
+  #   twitter:
+  #   website:
+  #   bio: Gys Hough is Managing Partner of Coinstone Capital, a Netherlands-based fund manager that specialises in blockchain-based investments. The fund predominately invests in ealry-stage blockchain projects that are identified through a use cased based investment strategy.
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
