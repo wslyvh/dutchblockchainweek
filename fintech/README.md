@@ -22,7 +22,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -34,7 +33,6 @@ title: Blockchain and FinTech
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
-
 
 #####################
 ### EVENT DETAILS ###
@@ -49,12 +47,9 @@ name: Blockchain and FinTech
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -
-    This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
-  -
-    More coming soon!
-  -
-    Stay tuned.
+  - This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
+  - More coming soon!
+  - Stay tuned.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -66,23 +61,23 @@ endDate: 2019-06-03
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:30'
+time: "18:30"
 # Time when the event ends. Can be left empty.
-endTime: '21:30'
+endTime: "21:30"
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets:
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Coming soon!
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 
+address: Amsterdam
 
 # The category of the event. Valid options:
 # - conference
@@ -93,7 +88,6 @@ address:
 # Use _only_ one, and don't capitalize.
 category: event
 
-
 #################
 ### SPEAKERS ####
 #################
@@ -103,49 +97,39 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
-    # Required.
-    name: A
-
-    # Can be left empty.
-    title: 
-
-    # Can be left empty.
-    company: 
-
-    # The full URL, including http(s)://. Can be left empty.
-    companyURL: 
-
-    # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-    # Can be left empty.
-    twitter: 
-
-    # The full URL, including http(s)://. Can be left empty.
-    website: 
-    # The bio is a single line.
-    # Linebreaks are ignored, but they _must_ start with two spaces.
-    bio: 
-
-  -
-    name: 
-    title: 
-    company: 
-    companyURL: 
-    twitter: 
-    website: 
-    bio: 
-
-  -
-    name: 
-    title: 
-    company: 
-    companyURL:
-    twitter: 
-    website: 
-    bio: 
-
+  # - # Required.
+  #   name: A
+  #   # Can be left empty.
+  #   title:
+  #   # Can be left empty.
+  #   company:
+  #   # The full URL, including http(s)://. Can be left empty.
+  #   companyURL:
+  #   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
+  #   # Can be left empty.
+  #   twitter:
+  #   # The full URL, including http(s)://. Can be left empty.
+  #   website:
+  #   # The bio is a single line.
+  #   # Linebreaks are ignored, but they _must_ start with two spaces.
+  #   bio:
+  # - name:
+  #   title:
+  #   company:
+  #   companyURL:
+  #   twitter:
+  #   website:
+  #   bio:
+  # - name:
+  #   title:
+  #   company:
+  #   companyURL:
+  #   twitter:
+  #   website:
+  #   bio:
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
+
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>

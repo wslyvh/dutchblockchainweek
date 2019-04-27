@@ -22,7 +22,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -34,7 +33,6 @@ title: Blockchain Investments | An honest talk about successes and failures
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description: During this meetup we will hear from three seasoned blockchain investors and funds, who will openly share their biggest successes AND mistakes so that we can all learn from them.
-
 
 #####################
 ### EVENT DETAILS ###
@@ -49,12 +47,9 @@ name: Blockchain Investments | An honest talk about successes and failures
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -
-    During this meetup we will hear from three seasoned blockchain investors and funds, who will openly share their biggest successes AND mistakes so that we can all learn from them.
-  -
-    More information coming soon!
-  -
-    Stay tuned.
+  - During this meetup we will hear from three seasoned blockchain investors and funds, who will openly share their biggest successes AND mistakes so that we can all learn from them.
+  - More information coming soon!
+  - Stay tuned.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -66,16 +61,16 @@ endDate: 2019-06-04
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '18:00'
+time: "18:00"
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: "21:00"
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets:
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Coming soon!
@@ -93,7 +88,6 @@ address: Amsterdam, the Netherlands
 # Use _only_ one, and don't capitalize.
 category: event
 
-
 #################
 ### SPEAKERS ####
 #################
@@ -103,8 +97,7 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
-    # Required.
+  - # Required.
     name: Wilhelm Roth
 
     # Can be left empty.
@@ -121,32 +114,30 @@ speakers:
     twitter: wilhelmtroth
 
     # The full URL, including http(s)://. Can be left empty.
-    website: 
+    website:
 
     # The bio is a single line.
     # Linebreaks are ignored, but they _must_ start with two spaces.
     bio: We believe that Blockchain technology as well as cryptocurrencies are some of the most important technological innovations since the invention of the internet. We actively manage a diversified portfolio consisting of more than fifty different types of these digital tokens.
 
-  -
-    name: Zoe Seccull
+  - name: Zoe Seccull
     title: Business Development Manager
     company: Maven 11 Capital
-    companyURL:https://maven11.com/
-    twitter: 
-    website: 
+    companyURL: https://maven11.com/
+    twitter:
+    website:
     bio: Founded in 2015, Maven 11 is a prominent European investment firm solely focused on DLT / blockchain tech related ventures, tokens, digital currencies and digital assets. We are a diverse team of serial entrepreneurs and traditional finance professionals and above all passionate believers that blockchain technology will fundamentally change economic and social structures.
 
-  -
-    name: Gys Hough
+  - name: Gys Hough
     title: Managing Partner
     company: Coinstone Capital
     companyURL: https://www.coinstonecapital.com/
-    twitter: 
-    website: 
-    bio: Gys Hough is Managing Partner of Coinstone Capital, a Netherlands-based fund manager that specialises in blockchain-based investments. The fund predominately invests in ealry-stage blockchain projects that are identified through a use cased based investment strategy. 
-
+    twitter:
+    website:
+    bio: Gys Hough is Managing Partner of Coinstone Capital, a Netherlands-based fund manager that specialises in blockchain-based investments. The fund predominately invests in ealry-stage blockchain projects that are identified through a use cased based investment strategy.
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
+
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>
