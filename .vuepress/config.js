@@ -5,6 +5,14 @@ module.exports = {
 	base: "/",
 	title: "Dutch Blockchain Week",
 	head: [["link", { rel: "manifest", href: "/manifest.json" }], ["link", { rel: "icon", href: "/logo.png" }], ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]],
+	plugins: [
+		[
+			"@vuepress/google-analytics",
+			{
+				ga: "UA-136546948-2"
+			}
+		]
+	],
 	themeConfig: {
 		nav: [
 			{
