@@ -105,7 +105,16 @@
   </div>
 </template>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136546948-2"></script>
 <script>
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+  dataLayer.push(arguments);
+}
+gtag("js", new Date());
+
+gtag("config", "UA-136546948-2");
+
 import NavLink from "./NavLink.vue";
 
 export default {
@@ -527,10 +536,3 @@ export default {
   }
 }
 </style>
-
-
-
-
-
-
-
