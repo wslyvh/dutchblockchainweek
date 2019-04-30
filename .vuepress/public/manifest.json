@@ -3,8 +3,8 @@
 	"short_name": "BERBlockWeek",
 	"icons": [
 		{
-			"src": "/logo-192x192.png",
-			"sizes": "192x192",
+			"src": "/logo-196x196.png",
+			"sizes": "196x196",
 			"type": "image/png"
 		},
 		{

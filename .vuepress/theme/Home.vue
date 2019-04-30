@@ -527,10 +527,3 @@ export default {
   }
 }
 </style>
-
-
-
-
-
-
-
