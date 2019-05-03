@@ -513,6 +513,7 @@ export default {
       }
 
       .action-button {
+        margin: 5px 0 0 0;
         font-size: 1rem;
         padding: 0.6rem 1.2rem;
       }
