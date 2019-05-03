@@ -6,9 +6,7 @@
 
 <template>
   <div>
-    <HeroInternalPage
-      :title="data.name"
-    />
+    <HeroInternalPage :title="data.name"/>
 
     <div class="category">
       <Badge :text="capitalizeWord(data.category)"/>
@@ -36,72 +34,79 @@
       <h2>More information</h2>
       <TicketsLink/>
     </div>
+
+    <div class="sharethis-inline-share-buttons"></div>
   </div>
 </template>
 
 <script>
-import DateTime from './DateTime'
-import MapLink from './MapLink'
-import Speakers from './Speakers'
-import Synopsis from './Synopsis'
-import TicketsLink from './TicketsLink'
-import { capitalizeWord } from './../../theme/util.js'
-const debounce = require('debounce')
+import DateTime from "./DateTime";
+import MapLink from "./MapLink";
+import Speakers from "./Speakers";
+import Synopsis from "./Synopsis";
+import TicketsLink from "./TicketsLink";
+import { capitalizeWord } from "./../../theme/util.js";
+const debounce = require("debounce");
 
 export default {
   components: { DateTime, MapLink, Speakers, Synopsis, TicketsLink },
   computed: {
-    data () {
-      return this.$page.frontmatter
+    data() {
+      return this.$page.frontmatter;
     },
 
-    debounce () {
-      return debounce(setContentOffset, 100)
+    debounce() {
+      return debounce(setContentOffset, 100);
     }
   },
   methods: {
-    capitalizeWord (word) {
-      return capitalizeWord(word)
+    capitalizeWord(word) {
+      return capitalizeWord(word);
     }
   },
-  mounted () {
-    window.addEventListener('load', this.debounce)
-    window.addEventListener('resize', this.debounce)
+  mounted() {
+    window.addEventListener("load", this.debounce);
+    window.addEventListener("resize", this.debounce);
   },
-  destroyed () {
-    window.removeEventListener('load', this.debounce)
-    window.removeEventListener('resize', this.debounce)
+  destroyed() {
+    window.removeEventListener("load", this.debounce);
+    window.removeEventListener("resize", this.debounce);
   }
-}
+};
 
-const setContentOffset = function () {
-  let header = document.querySelector('header')
-  let hero = document.querySelector('.hero')
-  let category = document.querySelector('.category')
+const setContentOffset = function() {
+  let header = document.querySelector("header");
+  let hero = document.querySelector(".hero");
+  let category = document.querySelector(".category");
 
-  if (!header || !hero || !category) return
+  if (!header || !hero || !category) return;
 
-  let offset = header.offsetHeight + hero.offsetHeight
+  let offset = header.offsetHeight + hero.offsetHeight;
 
-  category.style.marginTop = `${offset}px`
-}
+  category.style.marginTop = `${offset}px`;
+};
 </script>
 
 <style scoped lang="stylus">
-@import './../../theme/styles/config.styl'
+@import './../../theme/styles/config.styl';
 
-.hero
-  position absolute
-  top $navbarHeight
-  left 0
+.hero {
+  position: absolute;
+  top: $navbarHeight;
+  left: 0;
+}
 
-.badge
-  margin-left 0 !important
-  margin-right 0 !important
+.badge {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
 
-.category
-  text-align right
-  margin-top $internalHeroHeight + $navbarHeight
-h2
-  margin-top 1.5em
+.category {
+  text-align: right;
+  margin-top: $internalHeroHeight + $navbarHeight;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
 </style>

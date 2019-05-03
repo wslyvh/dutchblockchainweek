@@ -9,6 +9,7 @@
           >{{ data.tagline || $description || 'Welcome to your VuePress site' }}</p>
           <h1>{{ data.heroText || $title || 'Hello' }}</h1>
           <p class="action" v-if="data.actionText && data.actionLink">
+            <a href="mailto:mail@dutchblockchainweek.com" class="action-button">Sponsor or speaker</a>
             <NavLink class="action-button" :item="actionLink"/>
           </p>
         </div>
@@ -110,6 +111,14 @@ import NavLink from "./NavLink.vue";
 
 export default {
   components: { NavLink },
+  mounted() {
+    let sharethisScript = document.createElement("script");
+    sharethisScript.setAttribute(
+      "src",
+      "//platform-api.sharethis.com/js/sharethis.js#property=5ccc6b3e0ff462001290def4&product=sop"
+    );
+    document.head.appendChild(sharethisScript);
+  },
   computed: {
     data() {
       return this.$page.frontmatter;
