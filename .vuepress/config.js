@@ -4,7 +4,7 @@ module.exports = {
 	// Leave the base as '/' if serving the content from a custom domain
 	base: "/",
 	title: "Dutch Blockchain Week",
-	head: [["link", { rel: "manifest", href: "/manifest.json" }], ["link", { rel: "icon", href: "/logo.png" }], ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]],
+	head: [["link", { rel: "manifest", href: "/manifest.json" }], ["link", { rel: "icon", href: "/logo-196x196.png" }], ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]],
 	ga: "UA-136546948-2",
 	plugins: [
 		[

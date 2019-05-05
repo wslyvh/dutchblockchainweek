@@ -97,7 +97,8 @@
     <div class="footer" v-if="data.footer">
       <span v-for="link in data.footer">
         <a :href="link.url">{{ link.text }}</a>&nbsp; | &nbsp;
-        <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>
+        <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>&nbsp; | &nbsp;
+        <a href="https://www.becon.global/">BECON</a>
       </span>
       <p class="action" v-if="data.actionText && data.actionLink">
         <NavLink class="action-button" :item="actionLink"/>
