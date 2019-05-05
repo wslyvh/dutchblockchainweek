@@ -17,6 +17,10 @@ module.exports = {
 	themeConfig: {
 		nav: [
 			{
+				text: "About",
+				link: "/about/"
+			},
+			{
 				text: "Events",
 				link: "/events/"
 			},
