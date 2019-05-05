@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Wednesday - Atomic Swaps on Lightning
-description: Join us in this deep dive into the Hyperledger Project, learn more about how different blockchains are being implemented, and how they will disrupt business as we know it.
+description: The Netherlands' Longest-Running Monthly Conference on Decentralization, Blockchain Tech, and Digital Currencies
 name: Bitcoin Wednesday - Atomic Swaps on Lightning
 
 synopsis:
