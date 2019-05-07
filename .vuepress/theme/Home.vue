@@ -9,6 +9,7 @@
           >{{ data.tagline || $description || 'Welcome to your VuePress site' }}</p>
           <h1>{{ data.heroText || $title || 'Hello' }}</h1>
           <p class="action" v-if="data.actionText && data.actionLink">
+            <a href="mailto:mail@dutchblockchainweek.com" class="action-button">Sponsor or speaker</a>
             <NavLink class="action-button" :item="actionLink"/>
           </p>
         </div>
@@ -95,8 +96,11 @@
     </div>
     <div class="footer" v-if="data.footer">
       <span v-for="link in data.footer">
-        <a :href="link.url">{{ link.text }}</a>&nbsp; | &nbsp;
-        <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>
+        <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>&nbsp; | &nbsp;
+        <a href="https://www.becon.global/">BECON</a>&nbsp; | &nbsp;
+        <a href="mail@dutchblockchainweek.com">Contact</a>&nbsp; | &nbsp;
+        <a href="https://twitter.com/DutchBlockWeek">Twitter</a>&nbsp; | &nbsp;
+        <a href="https://t.me/Dutchblockchainweek">Telegram</a>
       </span>
       <p class="action" v-if="data.actionText && data.actionLink">
         <NavLink class="action-button" :item="actionLink"/>
@@ -110,6 +114,14 @@ import NavLink from "./NavLink.vue";
 
 export default {
   components: { NavLink },
+  mounted() {
+    let sharethisScript = document.createElement("script");
+    sharethisScript.setAttribute(
+      "src",
+      "//platform-api.sharethis.com/js/sharethis.js#property=5ccc6b3e0ff462001290def4&product=sop"
+    );
+    document.head.appendChild(sharethisScript);
+  },
   computed: {
     data() {
       return this.$page.frontmatter;
@@ -504,6 +516,7 @@ export default {
       }
 
       .action-button {
+        margin: 5px 0 0 0;
         font-size: 1rem;
         padding: 0.6rem 1.2rem;
       }
