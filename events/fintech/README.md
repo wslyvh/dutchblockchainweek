@@ -27,7 +27,7 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Blockchain and FinTech
+title: Blockchain, disrupting FinTech?
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
@@ -39,7 +39,7 @@ description: This event will showcase various generations of FinTech companies a
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Blockchain and FinTech
+name: Blockchain, disrupting FinTech?
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -48,8 +48,8 @@ name: Blockchain and FinTech
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
-  - More coming soon!
-  - Stay tuned.
+  - We'll dive into several use cases in the financial industry and see how products and solutions can be different using blockchain technology. A comparison of the disruption in these cases before and after blockchain technology is made.
+  - Finally, we will look into some specific solutions that are build here in the Netherlands.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -61,9 +61,9 @@ endDate: 2019-06-03
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: "18:30"
+time: 19:00
 # Time when the event ends. Can be left empty.
-endTime: "21:30"
+endTime: 22:00
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets:
@@ -97,36 +97,20 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  # - # Required.
-  #   name: A
-  #   # Can be left empty.
-  #   title:
-  #   # Can be left empty.
-  #   company:
-  #   # The full URL, including http(s)://. Can be left empty.
-  #   companyURL:
-  #   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-  #   # Can be left empty.
-  #   twitter:
-  #   # The full URL, including http(s)://. Can be left empty.
-  #   website:
-  #   # The bio is a single line.
-  #   # Linebreaks are ignored, but they _must_ start with two spaces.
-  #   bio:
-  # - name:
-  #   title:
-  #   company:
-  #   companyURL:
-  #   twitter:
-  #   website:
-  #   bio:
-  # - name:
-  #   title:
-  #   company:
-  #   companyURL:
-  #   twitter:
-  #   website:
-  #   bio:
+  -
+    name: Jonathan Knegtel
+    company: Blockdata
+    companyURL: https://www.blockdata.tech/
+    twitter: jpknegtel
+    website: https://www.linkedin.com/in/jpknegtel/
+    bio: Helping the world discover and understand blockchain adoption
+  -
+    name: Christophe Fonteneau
+    company: Request Network
+    companyURL: https://request.network/en/
+    twitter: chfonteneau
+    website: https://www.linkedin.com/in/fonteneau/
+    bio: Integrating Invoicing and Payments processes for a broader Economy
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
