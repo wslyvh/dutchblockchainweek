@@ -4,7 +4,8 @@ module.exports = {
 	// Leave the base as '/' if serving the content from a custom domain
 	base: "/",
 	title: "Dutch Blockchain Week",
-	head: [["link", { rel: "manifest", href: "/manifest.json" }], ["link", { rel: "icon", href: "/logo.png" }], ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]],
+	head: [["link", { rel: "manifest", href: "/manifest.json" }], ["link", { rel: "icon", href: "/logo-196x196.png" }], ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }]],
+	ga: "UA-136546948-2",
 	plugins: [
 		[
 			"@vuepress/google-analytics",
@@ -15,6 +16,10 @@ module.exports = {
 	],
 	themeConfig: {
 		nav: [
+			{
+				text: "About",
+				link: "/about/"
+			},
 			{
 				text: "Events",
 				link: "/events/"
@@ -30,7 +35,7 @@ module.exports = {
 		],
 		logo: "logo.png",
 		// Assumes GitHub. Can also be a full GitLab url.
-		repo: "wslyvh/dutchblockchainweek",
+		// repo: "wslyvh/dutchblockchainweek",
 		// Customising the header label
 		// Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
 		// repoLabel: 'Contribute!',
