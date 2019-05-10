@@ -48,12 +48,9 @@ name: Online 'Ask me anything!' with V-ID
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -
-    This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
-  -
-    V-ID is a Dutch project with a great team of ambitious hard working blockchain enthusiasts. V-ID secures any digital file against unlawful manipulation, protecting businesses against digital fraud, and letting people focus on innovation. If the proces is too difficult and takes to much effort, no one will bother. With V-ID, all it takes is 5 seconds with any common internet browser. No plugin, login, or anything needed. To protect a diploma, V-ID extracts the unique fingerprint of the file and stores it in the blockchain. For protection of printed versions, a QR code is added. The diploma is now validated. Whether it is validating diplomas automatically with APIs, or using our simple drag and drop terminal, V-ID adapts to any volume or workflow, with very low impact on your work process.
-  -
-    Location; t.me/nedcryptochat 
+  - This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
+  - V-ID is a Dutch project with a great team of ambitious hard working blockchain enthusiasts. V-ID secures any digital file against unlawful manipulation, protecting businesses against digital fraud, and letting people focus on innovation. If the proces is too difficult and takes to much effort, no one will bother. With V-ID, all it takes is 5 seconds with any common internet browser. No plugin, login, or anything needed. To protect a diploma, V-ID extracts the unique fingerprint of the file and stores it in the blockchain. For protection of printed versions, a QR code is added. The diploma is now validated. Whether it is validating diplomas automatically with APIs, or using our simple drag and drop terminal, V-ID adapts to any volume or workflow, with very low impact on your work process.
+  - Location; t.me/nedcryptochat 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -81,7 +78,7 @@ venue: t.me/nedcryptochat
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: 
+address: Online Event
 
 # The category of the event. Valid options:
 # - conference
@@ -102,24 +99,21 @@ category: panel
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
-    name: Pim
+  - name: Pim
     title: Founder
     company: V-ID
     companyURL: 
     twitter: 
     website: https://www.linkedin.com/in/pimvoets/
     bio: 
-  -
-    name: Marnix
+  - name: Marnix
     title: Founder
     company: V-ID
     companyURL: 
     twitter: 
     website: https://www.linkedin.com/in/mkvandenberg/
     bio: 
-  -
-    name: Joshua
+  - name: Joshua
     title: Business Development
     company: V-ID
     companyURL: 

@@ -76,3 +76,10 @@ speakers:
     twitter: unibrightio
     website:
     bio: Former teacher of Maths, Physics and Social Studies
+
+### DON'T MAKE CHANGES BELOW THIS LINE! ###
+---
+
+<!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
+
+<Event-Content/>
