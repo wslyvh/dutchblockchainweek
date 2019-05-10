@@ -32,7 +32,8 @@ title: Blockchain, disrupting FinTech?
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
+description: The FinTech revolution has been around for over 10 years, disrupting and changing the financial industry for good. Several years ago Blockchain Technology entered the FinTech arena, again creating opportunities for new products & services, changing the way people use financial services and changing the industry itself as well. 
+During this event we will hear from three experienced blockchain in fintech innovators who will share from experience and based on facts how Blockchain is changing the financial industry. Are they disrupting FinTech, enabling a new generation of FinTech or perhaps strengthening the financial industry as it is?   
 
 #####################
 ### EVENT DETAILS ###
@@ -47,9 +48,10 @@ name: Blockchain, disrupting FinTech?
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - This event will showcase various generations of FinTech companies and discuss how Blockchain technology is disrupting the financial industry (or not).
-  - We'll dive into several use cases in the financial industry and see how products and solutions can be different using blockchain technology. A comparison of the disruption in these cases before and after blockchain technology is made.
-  - Finally, we will look into some specific solutions that are build here in the Netherlands.
+  - The FinTech revolution has been around for over 10 years, disrupting and changing the financial industry for good. Several years ago Blockchain Technology entered the FinTech arena, again creating opportunities for new products & services, changing the way people use financial services and changing the industry itself as well. 
+  During this event we will hear from three experienced blockchain in fintech innovators who will share from experience and based on facts how Blockchain is changing the financial industry. Are they disrupting FinTech, enabling a new generation of FinTech or perhaps strengthening the financial industry as it is?   
+  - Using the massive amount of data collected at Blockdata, founder and CEO Jonathan Knegtel will share his views on where Blockchain technology is actually making a difference today. How various financial markets are changing and who is really driving that change. Sharing his story and experience with Request Network, Christophe Fonteneau will bring a real live showcase of how Blockchain technology can combine the paper process that we call invoicing with actual transfer of value (money) and how that is impacting their customers. Finally, we have award winning company Riddle & Code share the latest about their new FinTech product. Sebastian Becker will take us through the development, implementation and impact of their custody solution for digital assets.
+  - As always we will end this event with an AMA session with all speakers to make sure we get answers to all your burning questions.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -70,7 +72,7 @@ tickets:
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 5
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Coming soon!
@@ -111,6 +113,13 @@ speakers:
     twitter: chfonteneau
     website: https://www.linkedin.com/in/fonteneau/
     bio: Integrating Invoicing and Payments processes for a broader Economy
+  -
+    name: Sebastian Becker
+    company: Riddle & Code
+    companyURL: https://www.riddleandcode.com/
+    twitter: chfonteneau
+    website: https://www.linkedin.com/in/sebastianbecker2/
+    bio: CCO at Riddle&Code GmbH, the blockchain interface company - and owner of strategy boutique consulting company [tbb\*] thebrainbehind. Collaborating with a long-established network of fellow expert consultants to help establishing the products and services of tomorrow.
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
