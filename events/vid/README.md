@@ -22,24 +22,25 @@
 # and can be safely removed, including these instructions.
 ###############
 
+
 ###########
 ### SEO ###
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Blockchain Investments | An honest talk about successes and failures
+title: Online 'Ask me anything!' with V-ID
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: During this meetup we will hear from three seasoned blockchain investors and funds, who will openly share their biggest successes AND mistakes so that we can all learn from them.
+description: This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Blockchain Investments | An honest talk about successes and failures
+name: Online 'Ask me anything!' with V-ID
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -47,9 +48,12 @@ name: Blockchain Investments | An honest talk about successes and failures
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - During this meetup we will hear from three seasoned blockchain investors and funds, who will openly share their biggest successes AND mistakes so that we can all learn from them.
-  - More information coming soon!
-  - Stay tuned.
+  -
+    This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
+  -
+    V-ID is a Dutch project with a great team of ambitious hard working blockchain enthusiasts. V-ID secures any digital file against unlawful manipulation, protecting businesses against digital fraud, and letting people focus on innovation. If the proces is too difficult and takes to much effort, no one will bother. With V-ID, all it takes is 5 seconds with any common internet browser. No plugin, login, or anything needed. To protect a diploma, V-ID extracts the unique fingerprint of the file and stores it in the blockchain. For protection of printed versions, a QR code is added. The diploma is now validated. Whether it is validating diplomas automatically with APIs, or using our simple drag and drop terminal, V-ID adapts to any volume or workflow, with very low impact on your work process.
+  -
+    Location; t.me/nedcryptochat 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -61,23 +65,23 @@ endDate: 2019-06-04
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: "18:00"
+time: '20:00'
 # Time when the event ends. Can be left empty.
-endTime: "21:00"
+endTime: '21:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets:
+tickets: 
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price:
+price: 
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Coming soon!
+venue: t.me/nedcryptochat
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Amsterdam, the Netherlands
+address: 
 
 # The category of the event. Valid options:
 # - conference
@@ -86,7 +90,8 @@ address: Amsterdam, the Netherlands
 # - panel
 # - workshop
 # Use _only_ one, and don't capitalize.
-category: event
+category: panel
+
 
 #################
 ### SPEAKERS ####
@@ -97,39 +102,32 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  # - # Required.
-  #   name: Wilhelm Roth
-  #   # Can be left empty.
-  #   title: CEO
-  #   # Can be left empty.
-  #   company: Cyber Capital
-  #   # The full URL, including http(s)://. Can be left empty.
-  #   companyURL: https://cyber.capital/
-  #   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-  #   # Can be left empty.
-  #   twitter: wilhelmtroth
-  #   # The full URL, including http(s)://. Can be left empty.
-  #   website:
-  #   # The bio is a single line.
-  #   # Linebreaks are ignored, but they _must_ start with two spaces.
-  #   bio: We believe that Blockchain technology as well as cryptocurrencies are some of the most important technological innovations since the invention of the internet. We actively manage a diversified portfolio consisting of more than fifty different types of these digital tokens.
-  # - name: Zoe Seccull
-  #   title: Business Development Manager
-  #   company: Maven 11 Capital
-  #   companyURL: https://maven11.com/
-  #   twitter:
-  #   website:
-  #   bio: Founded in 2015, Maven 11 is a prominent European investment firm solely focused on DLT / blockchain tech related ventures, tokens, digital currencies and digital assets. We are a diverse team of serial entrepreneurs and traditional finance professionals and above all passionate believers that blockchain technology will fundamentally change economic and social structures.
-  # - name: Gys Hough
-  #   title: Managing Partner
-  #   company: Coinstone Capital
-  #   companyURL: https://www.coinstonecapital.com/
-  #   twitter:
-  #   website:
-  #   bio: Gys Hough is Managing Partner of Coinstone Capital, a Netherlands-based fund manager that specialises in blockchain-based investments. The fund predominately invests in ealry-stage blockchain projects that are identified through a use cased based investment strategy.
+  -
+    name: Pim
+    title: Founder
+    company: V-ID
+    companyURL: 
+    twitter: 
+    website: https://www.linkedin.com/in/pimvoets/
+    bio: 
+  -
+    name: Marnix
+    title: Founder
+    company: V-ID
+    companyURL: 
+    twitter: 
+    website: https://www.linkedin.com/in/mkvandenberg/
+    bio: 
+  -
+    name: Joshua
+    title: Business Development
+    company: V-ID
+    companyURL: 
+    twitter: 
+    website: https://www.linkedin.com/in/joshuajenster/
+    bio: 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
-
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>

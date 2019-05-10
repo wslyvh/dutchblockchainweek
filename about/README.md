@@ -8,10 +8,18 @@ title: About
 Dutch Blockchain Week is an initiative by [Blockchain Netherlands](https://www.blockchain-netherlands.com/) and [BECON](https://www.becon.global/).
 
 ## Partners
-
-- [BlockchainTalks](https://blockchaintalks.io/)
+- [Bitcoin Magazine NL (Media Partner)](https://bitcoinmagazine.nl/)
+- [Meet Berlage (Location sponsor)](https://meetberlage.com/)
 - [GUTS Tickets](https://guts.tickets/)
+
+## Organizers
+- [BlockchainTalks](https://blockchaintalks.io/)
 - [Crypto Canal](https://cryptocanal.org/)
+- [BlockDAM](https://www.meetup.com/Permissionless-Society/)
+- [Blockbar | Open Blockchain Lab The Hague](https://www.blockbar.nl/)
+- [Lisk Center Utrecht](https://www.liskcenter.io/)
+- [Rotterdam Blockchain Community](https://rotterdamblockchain.com/)
+- [Smilo](https://smilo.io/)
 
 ## Communication Channels
 

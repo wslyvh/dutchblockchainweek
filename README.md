@@ -30,6 +30,6 @@ Existing local meetup organizers and other volunteers from the Blockchain Nether
 
 If you don’t want to miss these special events, from meetups to workshops and fireside chats, make sure to pre-register and receive new events and tickets in your inbox first. 
 
-If you want to contribute to Blockchain Week, you can register your own events. Our concept is simple: keep it educational, try to be as cost friendly for the community as you can (bearing in mind, we all need to pay bills - so not all events are free!) and create a welcoming environment, so interested parties at any knowledge level feel comfortable to join.
+If you want to contribute to Blockchain Week, you can register your own events via the link above. For sponsoring or speaking opportunities please get in touch with our team via <A HREF="mailto:mail@dutchblockchainweek.com">email</A>.
 
 <br />
