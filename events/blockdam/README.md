@@ -1,5 +1,4 @@
 ---
-
 title: Why open blockchains matter
 description: Blockchain is inherited from bitcoin. Many people seem to not know that. In one day we will empower participants with the knowledge of crypto currencies’ design principles immutability, self-sovereignty and efficiency, the associated building blocks and the reasons why blockchains in this perspective matter.
 name: Why open blockchains matter | Unknown design principles of blockchains and its consequences
@@ -18,8 +17,8 @@ synopsis:
 date: 2019-06-04
 endDate: 2019-06-04
 
-time: '09:00'
-endTime: '17:00'
+time: "09:00"
+endTime: "17:00"
 
 tickets: https://www.ticketkantoor.nl/shop/openbc
 price: 29
@@ -57,18 +56,18 @@ speakers:
     companyURL: https://www.geldof.it
     twitter: hoihansie
     website: http://linkedin.com/in/hansgeldof
-    bio: In professional IT since 1995, I programmed, designed and managed software and IT related projects for big and small companies. In crypto since 2013 and active in blockchain since 2017. Fan of open source and open public blockchain applications. 
+    bio: In professional IT since 1995, I programmed, designed and managed software and IT related projects for big and small companies. In crypto since 2013 and active in blockchain since 2017. Fan of open source and open public blockchain applications.
   - name: Henk van Cann
     title: Open Public Blockchain purist
     company: Bcws.io
     companyURL: http:/bcws.io
     twitter: henkvancann
     website: https://www.linkedin.com/in/henkvancann/
-    bio: Open Public Blockchain tech, Bitcoin purist, Self Sov Identity, Crypto Innov., BlockDAM Amsterdam, husband, father, musician; else? open source minded, trainer 
-        Co-founder of the training firm Blockchain Workspace (bcws.io) and works for the open public blockchain community. In the past Henk has been an entrepreneur in GIS, building up a company of 25 people on the payroll and later build up a firm in open source CMS systems that worked with a team solely consisting of small proprietary holders. He sold the two firms in 1999 and 2016 consecutively. 
-
+    bio: Open Public Blockchain tech, Bitcoin purist, Self Sov Identity, Crypto Innov., BlockDAM Amsterdam, husband, father, musician; else? open source minded, trainer
+      Co-founder of the training firm Blockchain Workspace (bcws.io) and works for the open public blockchain community. In the past Henk has been an entrepreneur in GIS, building up a company of 25 people on the payroll and later build up a firm in open source CMS systems that worked with a team solely consisting of small proprietary holders. He sold the two firms in 1999 and 2016 consecutively.
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
+
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>

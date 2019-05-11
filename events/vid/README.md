@@ -22,7 +22,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -33,7 +32,7 @@ title: Online 'Ask me anything!' with V-ID
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
+description: This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself.
 
 #####################
 ### EVENT DETAILS ###
@@ -48,9 +47,9 @@ name: Online 'Ask me anything!' with V-ID
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself. 
+  - This event is made possible by Lekkercryptisch and NCC. We will host an online event in the form of an Ask Me Anything! Our beloved concept. Three team members from the V-ID team will answer all of your questions 60 minutes long. The Ask Me Anything will be in Dutch and will be free to participate to everybody who is in our telegram community. At the end of the AMA session we give away €200,- worth of Vidt tokens! This is made possible by V-ID themself.
   - V-ID is a Dutch project with a great team of ambitious hard working blockchain enthusiasts. V-ID secures any digital file against unlawful manipulation, protecting businesses against digital fraud, and letting people focus on innovation. If the proces is too difficult and takes to much effort, no one will bother. With V-ID, all it takes is 5 seconds with any common internet browser. No plugin, login, or anything needed. To protect a diploma, V-ID extracts the unique fingerprint of the file and stores it in the blockchain. For protection of printed versions, a QR code is added. The diploma is now validated. Whether it is validating diplomas automatically with APIs, or using our simple drag and drop terminal, V-ID adapts to any volume or workflow, with very low impact on your work process.
-  - Location; t.me/nedcryptochat 
+  - Location; t.me/nedcryptochat
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -62,16 +61,16 @@ endDate: 2019-06-04
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '20:00'
+time: "20:00"
 # Time when the event ends. Can be left empty.
-endTime: '21:00'
+endTime: "21:00"
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: 
+tickets:
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: t.me/nedcryptochat
@@ -89,7 +88,6 @@ address: Online Event
 # Use _only_ one, and don't capitalize.
 category: panel
 
-
 #################
 ### SPEAKERS ####
 #################
@@ -102,26 +100,27 @@ speakers:
   - name: Pim
     title: Founder
     company: V-ID
-    companyURL: 
-    twitter: 
+    companyURL:
+    twitter:
     website: https://www.linkedin.com/in/pimvoets/
-    bio: 
+    bio:
   - name: Marnix
     title: Founder
     company: V-ID
-    companyURL: 
-    twitter: 
+    companyURL:
+    twitter:
     website: https://www.linkedin.com/in/mkvandenberg/
-    bio: 
+    bio:
   - name: Joshua
     title: Business Development
     company: V-ID
-    companyURL: 
-    twitter: 
+    companyURL:
+    twitter:
     website: https://www.linkedin.com/in/joshuajenster/
-    bio: 
+    bio:
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
+
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>

@@ -1,7 +1,7 @@
 ---
-title: Stablecoins for developers 
+title: Stablecoins for developers
 description: Stablecoins for developers - Ethereum DEV NL
-name: Stablecoins for developers 
+name: Stablecoins for developers
 
 synopsis:
   - Stablecoins for developers
