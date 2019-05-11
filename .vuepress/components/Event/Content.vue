@@ -34,7 +34,8 @@
       <h2>More information</h2>
       <TicketsLink/>
     </div>
-
+    <br>
+    <br>
     <div class="sharethis-inline-share-buttons"></div>
   </div>
 </template>
