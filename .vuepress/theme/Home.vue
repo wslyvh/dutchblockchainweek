@@ -117,7 +117,7 @@ export default {
     let sharethisScript = document.createElement("script");
     sharethisScript.setAttribute(
       "src",
-      "//platform-api.sharethis.com/js/sharethis.js#property=5ccc6b3e0ff462001290def4&product=sop"
+      "//platform-api.sharethis.com/js/sharethis.js#property=5cd6ddd41aa38a0012c07e2e&product=sop"
     );
     document.head.appendChild(sharethisScript);
   },
