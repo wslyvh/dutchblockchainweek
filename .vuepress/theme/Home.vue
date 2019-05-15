@@ -97,7 +97,6 @@
     <div class="footer" v-if="data.footer">
       <span v-for="link in data.footer">
         <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>&nbsp; | &nbsp;
-        <a href="https://www.becon.global/">BECON</a>&nbsp; | &nbsp;
         <a href="mail@dutchblockchainweek.com">Contact</a>&nbsp; | &nbsp;
         <a href="https://twitter.com/DutchBlockWeek">Twitter</a>&nbsp; | &nbsp;
         <a href="https://t.me/Dutchblockchainweek">Telegram</a>
@@ -118,7 +117,7 @@ export default {
     let sharethisScript = document.createElement("script");
     sharethisScript.setAttribute(
       "src",
-      "//platform-api.sharethis.com/js/sharethis.js#property=5ccc6b3e0ff462001290def4&product=sop"
+      "//platform-api.sharethis.com/js/sharethis.js#property=5cd6ddd41aa38a0012c07e2e&product=sop"
     );
     document.head.appendChild(sharethisScript);
   },

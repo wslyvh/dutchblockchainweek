@@ -1,67 +1,25 @@
 ---
-###########
-### SEO ###
-###########
-# The title of the page, displayed by the browser on the title of the window.
-# Ideally this is the same as the name of the event.
 title: Tokenized Amsterdam
-
-# Description for this event. This will be rendered as a <meta> tag in the HTML,
-# and displayed on the /events page. Keep it short.
-# Linebreaks are ignored, but they _must_ start with two spaces.
 description: BLOCKCHAIN TOKENIZATION – THE NEW METHOD OF ASSET FINANCING
-
-#####################
-### EVENT DETAILS ###
-#####################
-# The name of the event you're creating.
-# Ideally this is the same as the title.
 name: Tokenized Amsterdam
 
-# There _needs_ to be one hyphen before each paragraph.
-# Linebreaks are ignored, but they _must_ start with two spaces.
-# Indentation is crucial:
-# Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
-# Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   - Preparing for the tokenized future of assets and securities.
   - This conference provides comprehensive insights on applying blockchain technology to the entire process of tokenizing a real-world asset and the creation of a security token. Tokenizing assets means lowering costs for issuers, but also improving transparency, efficiency and liquidity of real-world assets. The tokenization of real assets democratizes access to new investment opportunities and allows for fractional liquidation and ease of exchange with other investors.
 
-# The date should be in the format year-month-day (ISO 8601).
-# Example: 2018-02-28
 date: 2019-06-06
-# The date when the event ends. Can be left empty or set to the same day the
-# event starts.
 endDate: 2019-06-06
 
-# Set the time in 24 hours format, surrounded by quotes.
-# _Only_ the starting time!
-# Example: '18:00'
 time: "09:00"
-# Time when the event ends. Can be left empty.
 endTime: "18:00"
 
-# The URL where to akquire the tickets. Can be left empty.
 tickets: https://thefutureof.finance/product/tokenized-assets-amsterdam/
 
-# If the entrance is free, set zero (0) as the price, or leave it empty.
-# _Don't_ write the currency symbol (Euro symbol will be used).
 price: 791.95
 
-# The name of the venue where the event will be held. Can be left empty.
 venue: Atrium Meeting Centre
-
-# The address to link to a Google map. Please test the address on Google Maps.
-# Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
 address: Strawinskylaan 3001, 1077 ZX Amsterdam, the Netherlands
 
-# The category of the event. Valid options:
-# - conference
-# - event
-# - hackathon
-# - panel
-# - workshop
-# Use _only_ one, and don't capitalize.
 category: conference
 
 #################
@@ -138,6 +96,7 @@ speakers:
     twitter:
     website:
     bio: In 2011 Marco discovered bitcoin. Since then he has mined Bitcoins and later enter into “day trade” OTC market of crypto. At the moment, Marco is the CEO of Merxcoin Capital Holdings, headquartered in London with activities in Portugal, Brazil, Peru, Colombia, Chile, Bolivia and Argentina. A central role is reserved for an index-pegged stablecoin backed with on-chain collateral.
+
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
