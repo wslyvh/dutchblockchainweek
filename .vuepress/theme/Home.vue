@@ -97,7 +97,7 @@
     <div class="footer" v-if="data.footer">
       <span v-for="link in data.footer">
         <a href="https://www.blockchain-netherlands.com/">Blockchain Netherlands</a>&nbsp; | &nbsp;
-        <a href="mail@dutchblockchainweek.com">Contact</a>&nbsp; | &nbsp;
+        <a href="mailto:mail@dutchblockchainweek.com">Contact</a>&nbsp; | &nbsp;
         <a href="https://twitter.com/DutchBlockWeek">Twitter</a>&nbsp; | &nbsp;
         <a href="https://t.me/Dutchblockchainweek">Telegram</a>
       </span>
