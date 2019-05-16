@@ -1,7 +1,7 @@
 ---
 title: Unfolding Blockchain with Hyperledger
 description: Join us in this deep dive into the Hyperledger Project, learn more about how different blockchains are being implemented, and how they will disrupt business as we know it.
-name: Unfolding Blockchain with Hyperledger.
+name: Unfolding Blockchain with Hyperledger
 
 synopsis:
   - Join us in this deep dive into the Hyperledger Project, learn more about how different blockchains are being implemented, and how they will disrupt business as we know it.

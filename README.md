@@ -48,12 +48,12 @@ footer:
 
 <hr /><br />
 
-Using the momentum of the Money2020 conference and the incredible amount of people coming to Amsterdam, we are organizing the first Dutch Blockchain Week this year from the 2nd until 7th of June! 
+Dutch Blockchain Week is taking place from the 2nd till the 7th of June 2019 and is the first of its kind with events hosted not in just one city but across the country in Amsterdam, Rotterdam, Utrecht, The Hague and Arnhem, Tilburg and Almelo. 
 
-Existing local meetup organizers and other volunteers from the Blockchain Netherlands network co-organize a series of events explaining blockchain technology application and highlighting the Dutch Blockchain Ecosystem. In other words, this week is completely community driven, and will host a variety of events that will showcase the Dutch Blockchain Ecosystem and attract high profile international speakers as well. We are all about bringing communities together! 
-
-If you don’t want to miss these special events, from meetups to workshops and fireside chats, make sure to pre-register and receive new events and tickets in your inbox first. 
+Blockchain Netherlands, as the initiator of this week, brings together the Dutch ecosystem creating a truly community-driven blockchain week. Together with partners, such as BlockchainTalks, Lisk Center Utrecht, BlockDAM, Blockbar, Bitcoin Magazine NL a program is created that covers everything from fintech to regulation, from women in tech to social good, new economic models to technical deep-dives. There is a nice mix of meetups, workshops and panels to choose from. Some of them are for free and some charge a small fee to cover costs.
 
 If you want to contribute to Blockchain Week, you can register your own events via the link above. For sponsoring or speaking opportunities please get in touch with our team via <A HREF="mailto:mail@dutchblockchainweek.com">email</A>.
+
+Dutch Blockchain Week is an initiative by [Blockchain Netherlands](https://www.blockchain-netherlands.com/).
 
 <br />

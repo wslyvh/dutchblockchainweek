@@ -1,6 +1,6 @@
 ---
 title: Why open blockchains matter
-description: Blockchain is inherited from bitcoin. Many people seem to not know that. In one day we will empower participants with the knowledge of crypto currencies’ design principles immutability, self-sovereignty and efficiency, the associated building blocks and the reasons why blockchains in this perspective matter.
+description: Full day workshop with 6 different sessions you can sign up for! Blockchain is inherited from bitcoin. Many people seem to not know that. In one day we will empower participants with the knowledge of crypto currencies’ design principles immutability, self-sovereignty and efficiency, the associated building blocks and the reasons why blockchains in this perspective matter.
 name: Why open blockchains matter | Unknown design principles of blockchains and their consequences
 
 synopsis:
