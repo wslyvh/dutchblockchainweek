@@ -49,12 +49,9 @@ name: Dutch Blockchain Week for Students
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -
-    In this meetup we welcome students, teachers and business representatives who are open to support students and will introduce them to the concept of Blockchain; “what is Blockchain and why is everyone talking about it”? Next to this explanation some use cases will be shared. The audience will be a good mix of students and teachers from different backgrounds, such as Software Development, Business, Entrepreneurship and Logistics. Also some startups are invited.
-  -
-    Apart from the introductory lecture about Blockchain, you can also join a workshop "Blockchain for business without code", where you can create smart contracts and learn to work with a toolset that can integrate different Blockchains into any IT-system, without using a single line of code.
-  -
-    At the end there will be plenty of time to network!
+  - In this meetup we welcome students, teachers and business representatives who are open to support students and will introduce them to the concept of Blockchain; “what is Blockchain and why is everyone talking about it”? Next to this explanation some use cases will be shared. The audience will be a good mix of students and teachers from different backgrounds, such as Software Development, Business, Entrepreneurship and Logistics. Also some startups are invited.
+  - Apart from the introductory lecture about Blockchain, you can also join a workshop "Blockchain for business without code", where you can create smart contracts and learn to work with a toolset that can integrate different Blockchains into any IT-system, without using a single line of code.
+  - At the end there will be plenty of time to network!
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -103,16 +100,14 @@ category: event
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-  -
-    name: Manuela Krull-Mancinelli
+  - name: Manuela Krull-Mancinelli
     title: SmartCity expert, Blockchain Entrepreneur
     company: Krull Smart Solutions
     companyURL: 
     twitter: 
     website:
     bio: Manuela is an experienced manager with broad and deep knowledge of both, IT and Business. She has a background in Digital Transformation and Innovation for the Financial Services Industry and SmartCity. Manuela likes to discuss what the impact is of new technologies on business and society. 
-  -
-    name: Ruud Huisman
+  - name: Ruud Huisman
     title: Marketing Strategist 
     company: Unibright
     companyURL: https://unibright.io

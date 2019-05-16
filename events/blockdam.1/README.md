@@ -17,7 +17,7 @@ endDate: 2019-06-04
 time: "10:00"
 endTime: "17:00"
 
-tickets: 
+tickets: https://www.meetup.com/Permissionless-Society/events/261348711/
 price: 
 venue: Meet Berlage
 address: Oudebrugsteeg 9, Amsterdam
