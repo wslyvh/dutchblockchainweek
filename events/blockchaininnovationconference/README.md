@@ -47,13 +47,11 @@ tickets: https://blockchaininnovationconference.com/
 price: 495
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
-  - ABN AMRO
+venue: ABN AMRO
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
-  - Gustav Mahlerlaan 10, 1082 PP Amsterdam
+address: Gustav Mahlerlaan 10, 1082 PP Amsterdam
 
 # The category of the event. Valid options:
 # - conference
