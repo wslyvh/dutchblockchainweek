@@ -9,7 +9,7 @@ synopsis:
 date: 2019-06-03
 endDate: 2019-06-03
 
-time: "14:45"
+time: "13:45"
 endTime: "15:00"
 
 tickets: https://www.meetup.com/BCNLfoundation/events/261670755/
