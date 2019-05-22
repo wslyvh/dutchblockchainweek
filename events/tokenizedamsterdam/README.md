@@ -1,7 +1,7 @@
 ---
-title: Tokenized Amsterdam
+title: Tokenized Assets Amsterdam
 description: BLOCKCHAIN TOKENIZATION – THE NEW METHOD OF ASSET FINANCING
-name: Tokenized Amsterdam
+name: Tokenized Assets Amsterdam
 
 synopsis:
   - Preparing for the tokenized future of assets and securities.
@@ -96,7 +96,6 @@ speakers:
     twitter:
     website:
     bio: In 2011 Marco discovered bitcoin. Since then he has mined Bitcoins and later enter into “day trade” OTC market of crypto. At the moment, Marco is the CEO of Merxcoin Capital Holdings, headquartered in London with activities in Portugal, Brazil, Peru, Colombia, Chile, Bolivia and Argentina. A central role is reserved for an index-pegged stablecoin backed with on-chain collateral.
-
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
