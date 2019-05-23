@@ -10,8 +10,8 @@ synopsis:
   - Please follow our Dutch Telegram group - https://t.me/okexofficial_nl
   - Ticket register code - Okex2019
 
-date: 2019-06-05
-endDate: 2019-06-05
+date: 2019-06-03
+endDate: 2019-06-03
 
 time: "19:00"
 endTime: "22:00"
