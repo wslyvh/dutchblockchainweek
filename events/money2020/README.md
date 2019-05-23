@@ -48,13 +48,11 @@ tickets: https://europe.money2020.com/
 price: 2895
 
 # The name of the venue where the event will be held. Can be left empty.
-venue:
-  - RAI Amsterdam
+venue: RAI Amsterdam
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address:
-  - Europaplein 2-22, 1078 GZ Amsterdam
+address: Europaplein 2-22, 1078 GZ Amsterdam
 
 # The category of the event. Valid options:
 # - conference

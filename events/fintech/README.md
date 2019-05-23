@@ -59,8 +59,8 @@ speakers:
     companyURL: https://www.riddleandcode.com/
     twitter: chfonteneau
     website: https://www.linkedin.com/in/sebastianbecker2/
-    bio: Sebastian Becker (45) joined the company in early 2017. He’s in charge of RIDDLE&CODE's business development and sales internationally and is also heavily involved in discussing potential use cases with clients and defining the product range and partner ecosystem. 
-      Before, Sebastian had set up his independent media strategy consultancy thebrainbehind GmbH in 2002, doing product strategy and innovation projects all around the globe. He is fascinated by the potential of blockchains and - having studied Political Science in the 20th century - he would love to see it turning the current tide back, by adding trust, transparency and reliability to the business world and beyond.
+    bio: Sebastian Becker (45) joined the company in early 2017. He’s in charge of RIDDLE&CODE's business development and sales internationally and is also heavily involved in discussing potential use cases with clients and defining the product range and partner ecosystem. Before, Sebastian had set up his independent media strategy consultancy thebrainbehind GmbH in 2002, doing product strategy and innovation projects all around the globe. He is fascinated by the potential of blockchains and - having studied Political Science in the 20th century - he would love to see it turning the current tide back, by adding trust, transparency and reliability to the business world and beyond.
+    
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
