@@ -27,19 +27,19 @@
 ###########
 # The title of the page, displayed by the browser on the title of the window.
 # Ideally this is the same as the name of the event.
-title: Microfinancing and fintech
+title: DeFi and tokenomics
 
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Meet leaders in the space and discuss this big DeFi trend
+description: The perfect place to discuss the future of finance, makerDAO, bloxy.info, MIT, opium protocol and many more joining us! An evening with international speakers, interesting DeFi use-cases & a great networking
 
 #####################
 ### EVENT DETAILS ###
 #####################
 # The name of the event you're creating.
 # Ideally this is the same as the title.
-name: Microfinancing and fintech
+name: DeFi and tokenomics
 
 # There _needs_ to be one hyphen before each paragraph.
 # Linebreaks are ignored, but they _must_ start with two spaces.
@@ -47,7 +47,9 @@ name: Microfinancing and fintech
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Agenda coming soon
+  - 1st DeFi event of this format in Amsterdam will host international Decentralized Finance use-cases in talks, shark tank and also panel discussions.
+  - Who should join?
+  - Anyone who already has a basic knowledge about cryptocurrencies, blockchains and checked out some decentralized finance use-cases. This is an opportunity to connect and discuss. Our shark tank usually provides a very insightful experience, talks are carefully selected and will touch latest trends or unique approaches to DeFi.
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -68,7 +70,7 @@ tickets: https://blockchaintalks.io/events/18/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 29
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: Meet Berlage

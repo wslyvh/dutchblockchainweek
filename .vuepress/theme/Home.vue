@@ -41,11 +41,11 @@
     <div class="home_about">
       <div class="home-wrap">
         <h2 class="home_about-title center">
-          <b>Pre</b> register
+          <b>Connect</b> with us
         </h2>
         <div>
           <p>
-            Pre-register for the upcoming Dutch Blockchain Week 2019 and stay updated on all the news, updates &amp; events during this week.
+            Stay up to date with the latest news, updates &amp; events during the first Dutch Blockchain Week 2019.
             <!-- Begin Mailchimp Signup Form -->
           </p>
           <div id="mc_embed_signup">

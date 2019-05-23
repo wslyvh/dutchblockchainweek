@@ -64,8 +64,7 @@ speakers:
     companyURL: http:/bcws.io
     twitter: henkvancann
     website: https://www.linkedin.com/in/henkvancann/
-    bio: Open Public Blockchain tech, Bitcoin purist, Self Sov Identity, Crypto Innov., BlockDAM Amsterdam, husband, father, musician; else? open source minded, trainer
-      Co-founder of the training firm Blockchain Workspace (bcws.io) and works for the open public blockchain community. In the past Henk has been an entrepreneur in GIS, building up a company of 25 people on the payroll and later build up a firm in open source CMS systems that worked with a team solely consisting of small proprietary holders. He sold the two firms in 1999 and 2016 consecutively.
+    bio: Open Public Blockchain tech, Bitcoin purist, Self Sov Identity, Crypto Innov., BlockDAM Amsterdam, husband, father, musician; else? open source minded, trainer, Co-founder of the training firm Blockchain Workspace (bcws.io) and works for the open public blockchain community. In the past Henk has been an entrepreneur in GIS, building up a company of 25 people on the payroll and later build up a firm in open source CMS systems that worked with a team solely consisting of small proprietary holders. He sold the two firms in 1999 and 2016 consecutively.
   - name: Krijn Soeteman
     title: Author and science & tech journalist
     company: Self employed
@@ -79,8 +78,8 @@ speakers:
     companyURL: 
     twitter: DamelonBCWS
     website: https://baswisselink.com
-    bio: Public speaker, writer and educator on Bitcoin and open blockchain technology since 2013.
-Worked on the Nxt blockchain, co-founded Blockchain Workspace and helped many people initiate projects, which is his main passion. He has a distinct vision about blockchain technology that is grounded in realism and honesty. Nothing is ever finished, nothing is perfect and the only way to move forward is to educate, build and progress.
+    bio: Public speaker, writer and educator on Bitcoin and open blockchain technology since 2013. Worked on the Nxt blockchain, co-founded Blockchain Workspace and helped many people initiate projects, which is his main passion. He has a distinct vision about blockchain technology that is grounded in realism and honesty. Nothing is ever finished, nothing is perfect and the only way to move forward is to educate, build and progress.
+    
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 

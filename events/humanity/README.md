@@ -32,7 +32,7 @@ title: Blockchain for humanity
 # Description for this event. This will be rendered as a <meta> tag in the HTML,
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
-description: Working use-cases reinforcing common good ideas!
+description: Have you ever wondered what does it actually mean "hyperinflation"? Or are you worried about your charity donations ending up in a pockets of middlemen? What about user experience and crypto-related services?
 
 #####################
 ### EVENT DETAILS ###
@@ -47,8 +47,8 @@ name: Blockchain for humanity
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  - Blockchain 4 humanity awards
-  - Using emerging technologies to innovate in areas that have a direct impact on society.
+  - Join us for an international evening with great speakers and about 130 attendees. We'll host projects with a long-term vision for impact.
+  - Have you ever wondered what does it actually mean "hyperinflation"? Or are you worried about your charity donations ending up in a pockets of middlemen? What about user experience and crypto-related services? This and much more is packed for Monday night at TNW venue. More info on our website - sign up on our meetup page to see who's coming along. Looking forward to seeing you!
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
@@ -69,7 +69,7 @@ tickets: https://blockchaintalks.io/events/17/
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
 # _Don't_ write the currency symbol (Euro symbol will be used).
-price: 0
+price: 15
 
 # The name of the venue where the event will be held. Can be left empty.
 venue: TQ
