@@ -23,14 +23,17 @@ speakers:
   - name: Max Mijnheer
     title: Lead Architect
     company: VMC
+    companyURL: https://vmc.ai/
     bio: Max is Lead Architect at VMC. Max has been involved with VMC from the very beginning. Max will explain in depth how VMC developed the first operational implementation in public transport. Although we used many open source components, the VMC stack is developed more or less from scratch. To get this technology in the hands of actual people required lots of work and innovations. Max will share his learnings, best practises and the stories behind this implementation.
   - name: Billy Rennekamp
     title: Artist and developer
     company: Cosmos
+    companyURL: https://cosmos.network/
     bio: Billy Rennekamp is an artist and developer. He works on a variety of projects including Cosmos and Tendermint. In this workshop, Billy will explain how to create a functional nameservice application. In the process, you will learn the basic concepts of Cosmos and structures of the SDK.
   - name: Thomas Cocirta
     title: Engineer and inventor.
     company: Mobotiq
+    companyURL: https://mobotiq.com/
     bio: Thomas is an engineer and inventor. He is the intellect behind the autonomous robotaxi company Mobotiq. With Mobotiq, Thomas has produced self driving vehicles of which many parts can be produced via 3D printers. Thomas will share his vision on how 3D printing, robots and blockchain are together changing the world of (mass)production forever.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
