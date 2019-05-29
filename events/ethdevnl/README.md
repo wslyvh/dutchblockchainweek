@@ -4,10 +4,11 @@ description: Stablecoins for developers - Ethereum DEV NL
 name: Stablecoins for developers
 
 synopsis:
-  - Stablecoins for developers
-  - Edan Yago, founder https://www.cementdao.com/
-  - Adrian le Bas, product tech lead at https://www.makerdao.com/
-  - More to be announced..
+  - MakerDAO for developers - Adrian le Bas, product tech lead at [https://makerdao.com](https://makerdao.com)
+  - Stablecoins - issues and risks - Edan Yago, founder [https://www.cementdao.com/](https://www.cementdao.com/)
+  - === Break ===
+  - Panel - what do stablecoins offer me as a dev
+  - Lightning talks and Live Tweets
 
 date: 2019-06-06
 endDate: 2019-06-06
@@ -22,9 +23,9 @@ tickets: https://www.meetup.com/Ethereum-DEV-NL/events/261328879/
 price: 0
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: To Be Announced
+venue: The Thinking Hut (South Location)
 
-address: Amsterdam
+address: Pilotenstraat 39a, Amsterdam
 
 # The category of the event. Valid options:
 # - conference

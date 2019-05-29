@@ -11,7 +11,7 @@ synopsis:
   - Vladimir Griniv - Head of Trading at Maverick Derivatives B.V.
   - Michaël van de Poppe - Trader at Amsterdam Stock Exchange
   - Justin Bons - Chief Investment Officer at Cyber Capital
-  - Please follow our Dutch Telegram group - https://t.me/okexofficial_nl
+  - Please follow our Dutch Telegram group - [https://t.me/okexofficial_nl](https://t.me/okexofficial_nl)
   - Ticket register code - Okex2019
 
 date: 2019-06-03

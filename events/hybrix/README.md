@@ -6,10 +6,10 @@ name: Hybrix - Blockchain get-together
 synopsis:
   - Join the hybrix monthly get-together if you are interested in blockchain technology and coding, want to talk about it, share your experiences, pains or want to learn more.
   - This edition is hosted in cooperation with Blockchain Netherlands for the Dutch Blockchain Week.
-  - For more information visit https://www.dutchblockchainweek.com
+  - For more information visit [https://www.dutchblockchainweek.com](https://www.dutchblockchainweek.com)
   - Join the hybrix monthly get-together if you are interested in blockchain technology and coding, want to talk about it, share your experiences, pains or want to learn more. Come for a drink and a chat at the Lisk Center Utrecht!
   - After the meet, we welcome guests to join the Utrecht Crypto Café community for a panel discussion on the societal impact of decentralization at restaurant Puschkin, 20.00.
-  - For more information visit https://www.facebook.com/CryptoCafe24/
+  - For more information visit [https://www.facebook.com/CryptoCafe24/](https://www.facebook.com/CryptoCafe24/)
 
 date: 2019-06-06
 endDate: 2019-06-06
