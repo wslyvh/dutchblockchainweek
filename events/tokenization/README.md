@@ -67,9 +67,10 @@ speakers:
     title: Technical Account Manager
     company: MakerDAO
     companyURL: https://makerdao.com/en/
-    twitter: 
+    twitter: https://twitter.com/nikolajlollike
     website: https://www.linkedin.com/in/nlollike/
-    bio: 
+    bio: Nikolaj Lollike is a Technical Account Manager at MakerDAO, where he spearheads integration projects with external partners, who seek to base their systems on the Maker platform.
+      Nikolaj has worked with smart contract solutions since 2015 where he co-founded the Copenhagen Ethereum Meetup and has published acclaimed research on the applications of Ethereum. Nikolaj was formerly working at Nets Group, the biggest payment service provider in the Nordics, as an innovation specialist with a focus on blockchain payment solutions. He holds a Bachelor of Science in Software Development from the IT University of Copenhagen and a Master of Science in E-Business from Copenhagen Business School.
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
