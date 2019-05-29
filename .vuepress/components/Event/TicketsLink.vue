@@ -15,7 +15,7 @@
     <span v-if="$page.frontmatter.tickets" class="button">
       <ExternalLink
         :url="$page.frontmatter.tickets"
-        caption="Website"
+        caption="Tickets"
         indicator="true"
       />
     </span>

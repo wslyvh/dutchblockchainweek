@@ -104,13 +104,24 @@ category: event
 # Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
   -
-    name: Coming soon!
-    title: 
-    company: 
-    companyURL: 
+    name: Jan Van Boesschoten
+    title: Business Architect
+    company: VodafoneZiggo
+    companyURL: https://www.vodafoneziggo.nl/
     twitter:
-    website:
-    bio: 
+    website: https://www.linkedin.com/in/janvanboesschoten/
+    bio: Jan van Boesschoten is business architect in the Digital department of VodafoneZiggo. Withing this large telecom organization he is mainly focussed on the combination of new technologies and education. He does that by establishing partnerships between VodafoneZiggo and higher education in the Netherlands. 
+      Together with students his team sets up experiments with new technologies. Technologies that in the near future could have a significant impact on existing as well as new business models for VodafoneZiggo. 
+      Besides several blockchain projects, Jan is also working on concepts for Cityfarming and home network. His work covers both the technologies behind it as well as their impact on the economy and society. 
+      In his spare time you will find Jan either in or on the water.
+  -
+    name: Rober de Groot
+    title: Co-founder
+    company: Hybrix
+    companyURL: https://hybrix.io/
+    twitter: robdotrego
+    website: https://www.linkedin.com/in/dotrego/
+    bio: Robert is co-founder of hybrix.io, an API for agnostic development currently supporting over 350 blockchain projects. Interoperability is one of the focus areas of the platform.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
