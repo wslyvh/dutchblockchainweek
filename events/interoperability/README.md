@@ -119,9 +119,9 @@ speakers:
     title: Co-founder
     company: Hybrix
     companyURL: https://hybrix.io/
-    twitter:
+    twitter: robdotrego
     website: https://www.linkedin.com/in/dotrego/
-    bio:
+    bio: Robert is co-founder of hybrix.io, an API for agnostic development currently supporting over 350 blockchain projects. Interoperability is one of the focus areas of the platform.
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
