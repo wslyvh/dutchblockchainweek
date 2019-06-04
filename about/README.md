@@ -16,8 +16,9 @@ Together with partners, such as BlockchainTalks, Lisk Center Utrecht, BlockDAM, 
 ## Partners
 - [Bitcoin Magazine NL (Media Partner)](https://bitcoinmagazine.nl/)
 - [NEVER BEEN BEFORE](https://www.neverbeenbefore.com/)
-- [Meet Berlage (Location sponsor)](https://meetberlage.com/)
+- [Blockchain Talent Lab](http://www.blockchaintalentlab.com/)
 - [Work on Blockchain](https://workonblockchain.com/)
+- [Meet Berlage (Location sponsor)](https://meetberlage.com/)
 - [Epicenter (Location sponsor)](https://epicenteramsterdam.com)
 - [Mindspace (Location sponsor)](https://www.mindspace.me/amsterdam/)
 - [Windesheim Flevoland (Location sponsor)](https://www.windesheimflevoland.nl/) 
@@ -49,6 +50,6 @@ Blockdata, Blockchain 4 Humanity, Blockchain Investments & Co., BchainWise, BitF
 - [Twitter](https://twitter.com/DutchBlockWeek) @DutchBlockWeek
 - [Telegram](https://t.me/Dutchblockchainweek)
 
-#BCNL #DBCW #DutchBlockchainWeek
+#BCNL #DBC #DutchBlockchainWeek
 
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->

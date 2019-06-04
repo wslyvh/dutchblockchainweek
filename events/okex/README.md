@@ -6,12 +6,16 @@ name: "OKEx Institutional Talks - Amsterdam"
 synopsis:
   - Join us in the Capital of the Netherlands on 3 June for our Institutional Talks.
   - Learn about DeFi & Crypto-Derivatives and enjoy some snacks & drinks during our networking session.
-  - Agenda to be announced soon.
-  - Please follow our Dutch Telegram group - https://t.me/okexofficial_nl
+  - Panelists - more to be announced!
+  - Lennix Lai - Director of Financial Market at OKEx
+  - Vladimir Griniv - Head of Trading at Maverick Derivatives B.V.
+  - Michaël van de Poppe - Trader at Amsterdam Stock Exchange
+  - Justin Bons - Chief Investment Officer at Cyber Capital
+  - Please follow our Dutch Telegram group - [https://t.me/okexofficial_nl](https://t.me/okexofficial_nl)
   - Ticket register code - Okex2019
 
-date: 2019-06-05
-endDate: 2019-06-05
+date: 2019-06-03
+endDate: 2019-06-03
 
 time: "19:00"
 endTime: "22:00"
@@ -28,41 +32,17 @@ address: Singel 542, Amsterdam
 # - panel
 # - workshop
 # Use _only_ one, and don't capitalize.
-category: event
+category: panel
 
-#################
-### SPEAKERS ####
-#################
-# There _needs_ to be one hyphen before each entry.
-# Linebreaks are ignored, but they _must_ start with two spaces.
-# Indentation is crucial:
-# Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
-# Add or remove speakers as needed, but remember the hyphen before each entry.
 speakers:
-# -
-#   # Required.
-#   name:
-#
-#   # Can be left empty.
-#   title:
-#
-#   # Can be left empty.
-#   company:
-#
-#   # The full URL, including http(s)://. Can be left empty.
-#   companyURL:
-#
-#   # Just the twitter handle, without Twitter's URL, nor the '@' symbol.
-#   # Can be left empty.
-#   twitter:
-#
-#   # The full URL, including http(s)://. Can be left empty.
-#   website:
-#
-#   # The bio is a single line.
-#   # Linebreaks are ignored, but they _must_ start with two spaces.
-#   bio:
-
+  - name: Lennix Lai
+    title: Director of Financial Market at OKEx
+  - name: Vladimir Griniv
+    title: Head of Trading at Maverick Derivatives B.V.
+  - name: Michaël van de Poppe
+    title: Trader at Amsterdam Stock Exchange
+  - name: Justin Bons
+    title: Chief Investment Officer at Cyber Capital
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 

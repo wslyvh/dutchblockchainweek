@@ -22,12 +22,12 @@ endTime: "17:00"
 tickets: https://www.eventbrite.com/e/algorand-amsterdam-meetup-unlocking-a-global-borderless-economy-tickets-60714777534
 
 # If the entrance is free, set zero (0) as the price, or leave it empty.
-price: 
+price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: To Be Announced
+venue: Meet Berlage
 
-address: Amsterdam
+address: Oudebrugsteeg 9, 1012 JN Amsterdam
 
 # The category of the event. Valid options:
 # - conference
