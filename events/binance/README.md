@@ -39,6 +39,9 @@ address: Apollolaan 2, 1077 BA Amsterdam
 category: event
 
 speakers:
+  - name: Wei Zhou
+    title: Chief Finance Officer
+    company: Binance
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
 
