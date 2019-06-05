@@ -15,7 +15,7 @@ endTime: "18:00"
 
 tickets: https://thefutureof.finance/product/tokenized-assets-amsterdam/
 
-price: 791.95
+price: 
 
 venue: Atrium Meeting Centre
 address: Strawinskylaan 3001, 1077 ZX Amsterdam, the Netherlands
