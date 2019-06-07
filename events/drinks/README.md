@@ -22,7 +22,6 @@
 # and can be safely removed, including these instructions.
 ###############
 
-
 ###########
 ### SEO ###
 ###########
@@ -48,8 +47,7 @@ name: Dutch Blockchain Week Closing drinks together with BIC '19
 # Two spaces before the hyphen, four spaces before the text. _No_ tabs allowed.
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
-  -
-    Let's all celebrate and look back on the first Dutch Blockchain Week together! We have partnered up with Blockchain Innovation Conference to share a drink together. Join us for some drinks at ABN AMRO Headquarters in Amsterdam on Friday afternoon and toast to a successful week.
+  - Let's all celebrate and look back on the first Dutch Blockchain Week together! We have partnered up with Blockchain Innovation Conference to share a drink together. Join us for some drinks at ABN AMRO Headquarters in Amsterdam on Friday afternoon and toast to a successful week.
   - Prior to these drinks you also have the opportunity to sit in on the final presentations of the Blockchain Innovation Conference with speakers from KLM Royal Dutch Airlines, Shell, Odyssey, Bencom Group, China e-commerce committee and David Birch
   - NOTE - While the event & drinks are for FREE, registration is essential due to the location we are at. So make sure to follow the 'tickets' link and fill out the form!
 
@@ -63,9 +61,9 @@ endDate: 2019-06-07
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '16:00'
+time: "16:00"
 # Time when the event ends. Can be left empty.
-endTime: '20:00'
+endTime: "20:00"
 
 # The URL where to akquire the tickets. Can be left empty.
 tickets: https://docs.google.com/forms/d/e/1FAIpQLSdD2mkHNiyHRQ7J5XZVe9UpxgHi6OKt8E8-cC71koEvKuoCwA/viewform
@@ -89,8 +87,6 @@ address: Gustav Mahlerlaan 10, 1082 PP Amsterdam
 # - workshop
 # Use _only_ one, and don't capitalize.
 category: event
-
-
 #################
 ### SPEAKERS ####
 #################
@@ -102,6 +98,7 @@ category: event
 
 ### DON'T MAKE CHANGES BELOW THIS LINE! ###
 ---
+
 <!-- ### DON'T MAKE CHANGES BELOW THIS LINE! ### -->
 
 <Event-Content/>
