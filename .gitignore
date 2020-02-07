@@ -1,4 +1,2 @@
-# The dist folder is excluded because it changes on each build.
-# Use `git add -f .vuepress/dist` and commit before pushing to the repo.
-.vuepress/dist
+.env
 node_modules/
